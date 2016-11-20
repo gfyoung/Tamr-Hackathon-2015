@@ -1,0 +1,9 @@
+# MacOS files
+.DS_Store
+
+# IntelliJ files
+.idea
+Tamr-Hackathon-2015.iml
+
+# Python files
+*.pyc
